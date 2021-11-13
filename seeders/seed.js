@@ -130,7 +130,7 @@ const workoutSeed = [
         sets: 4,
       },
     ],
-    isComplete: true
+    isComplete: false
   },
 ];
 
